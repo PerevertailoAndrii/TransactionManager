@@ -22,5 +22,8 @@ Endpoints:
         }    
         
         type - possible values: "debit" or "credit" 
-        amount - non-negative number        
+        amount - non-negative number    
+        
+frontend available on http://127.0.0.1:8080/         
+            
         
